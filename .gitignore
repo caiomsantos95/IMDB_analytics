@@ -26,8 +26,10 @@ MANIFEST
 ratings.csv
 imdb_ratings.csv
 
-# Output files
+# Output files (exclude main visualizations)
 *.png
+!imdb_comprehensive_analysis.png
+!imdb_yoy_evolution.png
 charts/
 output/
 

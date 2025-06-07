@@ -6,6 +6,8 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Latest-green.svg)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Latest-orange.svg)](https://matplotlib.org/)
 
+![IMDb Comprehensive Analysis](imdb_comprehensive_analysis.png)
+
 ---
 
 ## 📊 Executive Summary
@@ -164,7 +166,17 @@ results = analyzer.run_complete_analysis()
 
 ## 📈 Visualizations
 
-The analysis generates comprehensive visualizations including:
+### **Comprehensive Analysis Dashboard**
+![IMDb Comprehensive Analysis](imdb_comprehensive_analysis.png)
+
+*9-panel dashboard showing complete viewing patterns, director preferences, genre evolution, and rating correlations*
+
+### **Year-over-Year Evolution**
+![IMDb YoY Evolution](imdb_yoy_evolution.png)
+
+*Focused view of viewing evolution: volume/quality trends, content age preferences, cumulative progress, and rating consistency*
+
+**The analysis generates comprehensive visualizations including:**
 
 1. **YoY Volume & Quality Evolution** - Rating activity and average quality over time
 2. **Content Age Preferences** - Shift from older to contemporary content
